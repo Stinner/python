@@ -1,6 +1,3 @@
-import HEAD as HEAD
-
-
 def gcd(a, b):
 
     while a != 0 and b != 0:
@@ -14,15 +11,8 @@ def gcd(a, b):
             b = b % a
 
 
-<<<<<<< HEAD
-
     print('Наибольший делитель:', a + b)
 
-=======
-    print('Наибольший делитель:', a + b )
->>>>>>> out
-
-    print('a')
 
 
 
